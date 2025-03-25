@@ -1,0 +1,18 @@
+Prénom,Nom,Type
+Ichigo,Kurosaki,Shinigami remplaçant
+Uryu,Ishida,Quincy
+Hirako,Shinji,Vizard
+Rukia,Kuchiki,Shinigami
+Ulquiorra,Schiffer,Arrancar
+Toshiro,Hitsugaya,Shinigami
+Kenpachi,Zaraki,Shinigami
+Grimmjow,Jagggerjack,Arrancar
+Nelliel,Tu,Arrancar
+Orihime,Inoue,Humain
+Yoruhishi,Shihoi,Shinigami
+Kisuke,Urahara,Shinigami
+Tia,Halibel,Arrancar
+Yassutora,Sado,Humain
+N'Noitora,Jirga,Arrancar
+Kensei,Muguruma,Vizard
+Hiyori,Sarugaku,Vizard
